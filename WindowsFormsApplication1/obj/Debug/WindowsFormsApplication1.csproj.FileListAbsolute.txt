@@ -9,3 +9,14 @@ D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsA
 D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
 D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\bin\Debug\FrmSearching.dll
 D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\bin\Debug\FrmSearching.pdb
+D:\progaming\formSearching1\FormSearching\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\progaming\formSearching1\FormSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\progaming\formSearching1\FormSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\progaming\formSearching1\FormSearching\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\progaming\formSearching1\FormSearching\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\progaming\formSearching1\FormSearching\WindowsFormsApplication1\bin\Debug\FrmSearching.dll
+D:\progaming\formSearching1\FormSearching\WindowsFormsApplication1\bin\Debug\FrmSearching.pdb
+D:\progaming\formSearching1\FormSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\progaming\formSearching1\FormSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\progaming\formSearching1\FormSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\progaming\formSearching1\FormSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
