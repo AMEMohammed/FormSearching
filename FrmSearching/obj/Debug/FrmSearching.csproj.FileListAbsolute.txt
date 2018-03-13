@@ -1,0 +1,9 @@
+D:\program\TestWcf\FrmSearching\FrmSearching\bin\Debug\FrmSearching.pdb
+D:\program\TestWcf\FrmSearching\FrmSearching\obj\Debug\FrmSearching.Properties.Resources.resources
+D:\program\TestWcf\FrmSearching\FrmSearching\obj\Debug\FrmSearching.csproj.GenerateResource.Cache
+D:\program\TestWcf\FrmSearching\FrmSearching\obj\Debug\FrmSearching.pdb
+D:\program\TestWcf\FrmSearching\FrmSearching\obj\Debug\FrmSearching.FormSearching.resources
+D:\program\TestWcf\FrmSearching\FrmSearching\bin\Debug\FrmSearching.dll.config
+D:\program\TestWcf\FrmSearching\FrmSearching\bin\Debug\FrmSearching.dll
+D:\program\TestWcf\FrmSearching\FrmSearching\obj\Debug\FrmSearching.dll
+D:\program\TestWcf\FrmSearching\FrmSearching\obj\Debug\FrmSearching.csprojResolveAssemblyReference.cache

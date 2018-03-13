@@ -1,0 +1,11 @@
+D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\bin\Debug\FrmSearching.dll
+D:\program\TestWcf\FrmSearching\WindowsFormsApplication1\bin\Debug\FrmSearching.pdb
